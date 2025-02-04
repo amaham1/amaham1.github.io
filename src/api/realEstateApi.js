@@ -1,5 +1,5 @@
 // 실제 API 통신을 위한 기본 설정
-const BASE_URL = 'http://localhost:28080/api';
+const BASE_URL = 'http://akapwhdgrap.cafe24.com/api';
 
 // API 호출 시 공통으로 사용할 에러 처리 함수
 const handleApiError = (error) => {
